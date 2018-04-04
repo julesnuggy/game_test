@@ -1,0 +1,20 @@
+{
+  "name": "game_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "phaser": "^3.3.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "nodemon": "^1.17.3"
+  }
+}
